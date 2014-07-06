@@ -1,0 +1,3 @@
+[submodule "vvv-site-wizard"]
+	path = vvv-site-wizard
+	url = git@github.com:ggutenberg/vvv-site-wizard.git
